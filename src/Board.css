@@ -1,0 +1,17 @@
+.board {
+  position: absolute;
+  left:50%;
+  transform: translate(-50%);
+
+ 
+}
+.winning-msg{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+  margin: 10px;
+}
